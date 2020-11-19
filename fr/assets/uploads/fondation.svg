@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1952px" height="96px" viewBox="0 0 1952 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>fondation</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g filter="url(#filter-1)" id="fondation">
+            <g>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1568 24 1564 24 1564 28 1568 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1564 0 1560 0 1560 4 1564 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1564 8 1560 8 1560 16 1564 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1568 16 1564 16 1564 20 1568 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1576 12 1572 12 1572 16 1576 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1572 20 1568 20 1568 24 1572 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1568 28 1568 32 1572 32 1572 36 1576 36 1576 28"></polygon>
+                <path d="M1568,44 L1568,52 L1572,52 L1572,56 L1568,56 L1568,52 L1564,52 L1564,44 L1560,44 L1560,56 L1564,56 L1564,64 L1560,64 L1560,92 L1576,92 L1576,40 L1572,40 L1572,44 L1568,44 Z M1572,76 L1568,76 L1568,72 L1572,72 L1572,76 Z M1572,64 L1568,64 L1568,60 L1572,60 L1572,64 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1564 36 1564 44 1568 44 1568 40 1572 40 1572 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1564 28 1560 28 1560 36 1564 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1576 8 1576 0 1572 0 1572 4 1564 4 1564 8"></polygon>
+                <path d="M1628,44 L1624,44 L1624,36 L1620,36 L1620,48 L1624,48 L1624,52 L1628,52 L1628,56 L1632,56 L1632,60 L1628,60 L1628,56 L1624,56 L1624,52 L1620,52 L1620,64 L1624,64 L1624,68 L1620,68 L1620,92 L1636,92 L1636,52 L1632,52 L1632,48 L1628,48 L1628,44 Z M1632,68 L1628,68 L1628,64 L1632,64 L1632,68 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1636 44 1632 44 1632 48 1636 48"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1636 28 1632 28 1632 32 1636 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1632 16 1628 16 1628 20 1632 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1636 20 1632 20 1632 24 1636 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1624 24 1620 24 1620 28 1628 28 1628 20 1624 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1624 16 1620 16 1620 20 1624 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1628 8 1624 8 1624 12 1628 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1624 4 1620 4 1620 8 1624 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1620 0 1616 0 1616 4 1620 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1632 0 1628 0 1628 4 1632 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1644 0 1640 0 1640 4 1644 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1652 4 1644 4 1644 8 1652 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1656 0 1652 0 1652 4 1656 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1656 12 1652 12 1652 16 1656 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1648 12 1644 12 1644 16 1648 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1632 8 1632 12 1636 12 1636 16 1640 16 1640 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1616 8 1612 8 1612 16 1616 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1612 4 1608 4 1608 8 1612 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1604 0 1600 0 1600 4 1604 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1604 8 1600 8 1600 16 1604 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1628 32 1624 32 1624 36 1628 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1628 36 1628 44 1632 44 1632 40 1636 40 1636 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1376 24 1368 24 1368 28 1372 28 1372 32 1368 32 1368 36 1372 36 1372.02 32 1376.01 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1372 48 1372 40 1368 40 1368.01 36 1364.01 36 1364 44 1368 44 1368 52 1376 52 1376 48"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1416 44 1412 44 1412 32 1408 32 1408 40 1404.01 40 1404.01 44 1408 44 1408 48 1412.01 48 1412 52 1416 52"></polygon>
+                <path d="M1416,40 L1420,40 L1420,32 L1424,32 L1424,28 C1422.01,28 1417.99,28 1416,28 L1416,24 L1412,24 L1412,28 L1416,28 L1416,40 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1352 0 1348 0 1348 4 1352 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1360 0 1356 0 1356 4 1360 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1368 0 1364 0 1364 4 1368 4"></polygon>
+                <path d="M1368.01,12.036 L1368.01,8.03003 L1364.01,8.03003 C1364.01,10.026 1364.01,14.046 1364.01,16.042 L1367.99,16.042 L1367.99,20.048 L1372,20.048 L1372,16.042 L1368.01,16.042 L1368.01,12.036 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1356 16 1360 16 1360 12 1356 12 1356 8 1352 8 1352 12 1355.99 12.036"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1360 20 1356 20 1356 24 1360 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1368.01 20.066 1364.01 20.066 1364.01 24.072 1368.01 24.072"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1364 24.072 1360 24.072 1360 32 1364 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1380 36 1379.99 32 1376 32 1376.01 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1376 36 1372 36 1372 40 1376 40"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1420 20 1416 20 1416 24 1420 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1416 12 1412.01 12.036 1412 16 1415.99 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1424 12 1420 12 1420 16 1424 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1428 16 1424 16 1424 20 1428 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1432 8 1428 8 1428 12 1432 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1436 0 1432 0 1432 4 1436 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1424 4 1420 4 1420 8 1424 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1420 0 1416 0 1416 4 1420 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1412 20 1408 20 1408 24 1412 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1408 28.08 1404 28.08 1404 32.086 1408 32.086"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1404 36 1400 36 1400 40 1404 40"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1364.01 4.00598 1360 4.00598 1360 8.01198 1364.01 8.01198"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1680 0 1676 0 1676 4 1680 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1688 0 1684 0 1684 4 1688 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1692 4 1688 4 1688 8 1692 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1684 4 1680 4 1680 8 1684 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1692 12 1688 12 1688 16 1692 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1700 0 1696 0 1696 4 1700 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1708 4 1704 4 1704 8 1708 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1712 0 1708 0 1708 4 1712 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1720 4 1716 4 1716 8 1720 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1724 8 1720 8 1720 12 1724 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1716 12 1712 12 1712 16 1716 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1708 12 1704 12 1704 20 1708 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1712 20 1708 20 1708 24 1712 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1712 28 1708 28 1708 32 1712 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1708 24 1700 24 1700 28 1708 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1704 32 1696 32 1696 36 1704 36"></polygon>
+                <path d="M1704,36 L1704,40 L1696,40 L1696,44 L1700,44 L1700,48 L1708,48 L1708,52 L1700,52 L1700,48 L1696,48 L1696,56 L1700,56 L1700,64 L1704,64 L1704,68 L1700,68 L1700,64 L1696,64 L1696,92 L1712,92 L1712,60 L1708,60 L1708,56 L1712,56 L1712,44 L1708,44 L1708,40 L1712,40 L1712,36 L1704,36 Z M1708,88 L1704,88 L1704,84 L1708,84 L1708,88 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1700 20 1696 20 1696 24 1700 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1732 0 1728 0 1728 8 1732 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1732 12 1724 12 1724 16 1732 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1700 8 1696 8 1696 16 1700 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1684 12 1676 12 1676 16 1684 16"></polygon>
+                <path d="M0,92 L16,92 L16,60 L12,60 L12,56 L16,56 L16,52 L12,52 L12,40 L8,40 L8,28 C6.008,28 1.992,28 0,28 L0,32 L4,32 L4,44 L8,44 L8,52 L4,52 L4,44 L0,44 L0,64 L4,64 L4,68 L0,68 L0,92 Z M12,72 L8,72 L8,68 L12,68 L12,72 Z M4,56 L8,56 L8,60 L4,60 L4,56 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="20 44 20 40 16 40 16 52 20 52 20 48 24 48 24 52 28 52 28 44"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="28 36 20 36 20 40 28 40"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="44 44 40 44 40 52 44 52"></polygon>
+                <path d="M8,4 L8,0 C6.008,0 1.992,0 0,0 L0,4 C1.992,4 6.008,4 8,4 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="16 4 12 4 12 8 16 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="20 0 16 0 16 4 20 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="24 4 20 4 20 8 24 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="32 0 28 0 28 4 32 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="40 4 36 4 36 8 40 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="44 0 40 0 40 4 44 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="44 12 40 12 40 16 44 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="36 12 32 12 32 16 36 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="32 8 28 8 28 12 32 12"></polygon>
+                <path d="M24,16 L24,12 C22.008,12 17.992,12 16,12 L16,16 C17.992,16 22.008,16 24,16 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="16 16 12 16 12 20 16 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="8 16 8 8 4 8 4 12 0 12 0 20 4 20 4 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="8 20 4 20 4 24 8 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="12 24 8 24 8 28 12 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="16 28 12 28 12 40 16 40"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="32 36 32 40 28 40 28 44 32 44 32 52 36 52 36 40 44 40 44 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="512 20 508 20 508 24 512 24"></polygon>
+                <path d="M516,32 L516,36 L520,36 C520,34.008 520,29.992 520,28 L516,28 L516,32 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <path d="M516,44 L512,44 L512,40 L516,40 L516,36 C514.008,36 509.992,36 508,36 C508,39.562 508,44.438 508,48 C509.992,48 514.008,48 516,48 L516,52 L520,52 L520,56 L524,56 C524,52.438 524,47.562 524,44 L520,44 L520,40 L516,40 L516,44 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <path d="M516,52 C514.008,52 509.992,52 508,52 L508,56 L512,56 L512,60 L508,60 L508,92 L524,92 L524,60 L520,60 L520,56 L516,56 L516,52 Z M516,64 L516,68 L512,68 L512,64 L516,64 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                <path d="M492,0 L488,0 C488,1.992 488,6.008 488,8 L492,8 C492,6.008 492,1.992 492,0 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="499.998 0 495.998 0 495.998 4 499.998 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="496 8 492 8 492 12 496 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="492 12 488 12 488 16 492 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="500 12 496 12 496 16 500 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="504 8 500 8 500 12 504 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="508 4 504 4 504 8 508 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="516 0 512 0 512 4 516 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="520 4 516 4 516 8 520 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="524 8 520 8 520 12 524 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="528 0 524 0 524 4 528 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="532 4 528 4 528 8 532 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="544 0 540 0 540 4 544 4"></polygon>
+                <path d="M540,12 L540,16 L544,16 C544,14.008 544,9.992 544,8 L540,8 L540,12 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <path d="M528,12 L528,16 C529.992,16 534.008,16 536,16 L536,12 C534.008,12 529.992,12 528,12 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="524 24 520 24 520 28 524 28"></polygon>
+                <path d="M516,16 L516,20 C517.992,20 522.008,20 524,20 L524,16 C522.008,16 517.992,16 516,16 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="516 24 512 24 512 28 516 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="512 28 508 28 508 32 512 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="512 8 508 8 508 12 512 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="516 12 512 12 512 16 516 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="524 36 520 36 520 40 524 40"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="576 32 572 32 572 36 576 36"></polygon>
+                <path d="M580,48 L584,48 C584,46.008 584,41.992 584,40 L580,40 C580,41.992 580,46.008 580,48 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <path d="M580,8 L576,8 C576,9.992 576,14.008 576,16 L580,16 C580,14.008 580,9.992 580,8 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="584 0 580 0 580 4 584 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="576 4 572 4 572 8 576 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="584 16 580 16 580 20 584 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="572 0 568 0 568 4 572 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="572 16 568 16 568 20 572 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="584 32 580 32 580 36 584 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="580 36 576 36 576 40 580 40"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="572 36 568 36 568 40 572 40"></polygon>
+                <path d="M576,32 L580,32 C580,30.008 580,25.992 580,24 C578.008,24 573.992,24 572,24 L572,28 L576,28 L576,32 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="572 28 568 28 568 32 572 32"></polygon>
+                <path d="M576,44 L576,40 L572,40 L572,44 L568,44 L568,48 L572,48 L572,52 L576,52 L576,56 L580,56 L580,60 L576,60 L576,56 L572,56 L572,52 L568,52 L568,92 L584,92 L584,52 L580,52 L580,48 L576,48 L576,44 Z M576,64 L576,68 L572,68 L572,64 L576,64 Z M576,76 L576,72 L580,72 L580,76 L576,76 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="736 52 740 52 740 56 744 56 744 60 748 60 748 64 744 64 744 60 740 60 740 56 736 56 736 92 752 92 752 56 748 56 748 52 744 52 744 48 740 48 740 44 744 44 743.988 40.006 740 40.006 740 36 736 36 736 40 740 40.006 740 44 736 44"></polygon>
+                <path d="M756.012,36.092 L760.018,36.092 C760.022,34.078 760.012,30.016 760,28 L756,28 L756,24 L752,24 L752.024,28 L756,28 C756.008,30.016 756.016,34.078 756.012,36.092 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="776 52 776 48 772 48 772 52 776 52 776 56 780 56 780 52"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="740 16 736 16 736 20 740 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="744 20 740 20 740 24 744 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="748 12 744 12 744 16 748 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="752 16 748 16 748 20 752 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="760 20 756 20 756 24 760 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="768 20 764 20 764 24 768 24"></polygon>
+                <path d="M764,32 L764,36 L768,36 C768,34.008 768,29.992 768,28 L764,28 L764,24 L760,24 L760,28 L763.988,28 L764,32 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="776 36 780 36 780 32 776 32 776 28 772 28 772 32 776 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="808 0 804 0 804 4 808 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="812 0 812 4 816 4 816 8 820 8 820 0"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="808.006 8 808.006 12.006 811.994 12.006 811.994 16.012 816 16.012 816 12.006 811.994 12.006 812.012 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="808 16 804 16 804 20 808 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="816 20 812 20 812 24 816 24"></polygon>
+                <path d="M820,40 L816,40 L816,36 L812,36 L812,40 L808,40 L808,36 L804,36 L804,44 L808,44 L808,48 L804,48 L804.014,56 L808,56 L808,52 L812.026,52 L812,44 L816,44 L816,52 L812,52 L812,56 L808,56 L808,60 L812,60 L812,64 L816,64 L816,68 L812,68 L812,64 L808,64 L808,60 L800,60 L800,56 L796,56 L796,52 L788,52 L788,48 L784,48 L784,44 L788,44 L788,48 L792,48 L792,44 L788,44 L788,40 L784,40 L784.018,36 L780,36 L780,40 L772,40 L772,36 L768,36 L768,40 L764,40 L764,36 L760,36 L760,40 L764,40 L764,44 L768,44 L768,48 L772,48 L772,44 L776,44 L776.006,48 C780.726,47.956 780.026,47.306 780,52 L784,52 L784,56 L780,56 L780.012,60.164 L808.02,92 L820,92 L820,56 L816,56 L816,52 L820,52 L820,40 Z M800,68 L804,68 L804,72 L800,72 L800,68 Z M792,64 L792,60 L788,60 L788,56 L792,56 L792,60 L796,60 L796,64 L792,64 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="820 32 816 32 816 36 820 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="808 28 804 28 804 32 808 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="820 24 816 24 816 28 820 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="812 24 808 24 808 28 812 28 812 32 808 32 808 36 812 36 812 32 816 32 816 28 812.006 28"></polygon>
+                <path d="M748.018,48.146 L748,52 L752,52 C752.012,49.302 752.034,42.616 752,40 L756,40 L756,36 L752,36 L752,40 L748.006,40.006 L748,44 L743.988,44.012 L744,48 L748,48" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <path d="M748.018,32.046 L748,36 L751.976,36 C751.994,34.008 752.006,29.992 752,28 L748.018,28 L748.018,32.046 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="748.006 36 743.994 36 743.994 40.006 748.006 40.006"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="752 8 752 12 756 12 756 16 760 16 760 12 756 12 756 8"></polygon>
+                <path d="M752,3.994 L752,0 L748,0 C747.996,1.992 747.992,6.008 747.994,8 L752,8 L752,3.994 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="744 7.99402 739.994 7.99402 739.994 12 744 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="740 0 736 0 736 4 739.976 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="748 24 743.994 24 743.994 28.006 748 28.006"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="740 24 736 24 736 28 739.994 28.006 740 36 744 36 743.982 28.006 739.994 28.006"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="188 52 192.006 52 192 56 196 56 196 60 200 60 200.006 64 196 64 196.006 60 192 60 192.006 56 188 56 188 92 204.006 92 204.006 56 200.006 56 200.006 52 196.006 52 196.006 48 192.006 48 192 44 196.006 44 196 40.006 192 40 192.006 36 188 36 188 40 192.006 40.006 192.006 44 188 44"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="228.006 52 228.006 48 224.006 48 224.006 52 228.006 52 228.006 56 232.006 56 232.006 52"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="192 16 188 16 188 20 192 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="195.997 20.0019 192.001 20.0079 192.007 24.0079 196.003 24.0019"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="199.997 24.0022 196.001 24.0082 196.007 28.0082 200.003 28.0022"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="200.006 12 196.006 12 196.006 16 200.006 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="204.006 16 200.006 16 200.006 20 204.006 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="212 20 208 20 208 24 212 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="208 24 204 24 204 28 208 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="212 28 208 28 208 36 212 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="216 24 212 24 212 28 216 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="220 28 216 28 216 36 220 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="192 24 188 24 188 28 192 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="196 28 192 28 192 36 196 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="204 28 200 28 200 36 204 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="220.006 20 216.006 20 216.006 24 220.006 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="228 28 224 28 224 32 228 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="232 32 228 32 228 36 232 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="260.006 0 256.006 0 256.006 4 260.006 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="264.006 0 264.006 4 268.006 4 268.006 8 272.006 8 272.006 0"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="260.012 8 260.012 12.006 264 12.006 264 16.012 268.006 16.012 268.006 12.006 264 12.006 264.018 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="260.006 16 256.006 16 256.006 20 260.006 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="268.006 20 264.006 20 264.006 24 268.006 24"></polygon>
+                <path d="M272,40 L268,40 L268.006,36 L264.006,36 L264,40 L260,40 L260.006,36 L256,36 L256,44 L260,44 L260,48 L256,48 L256,56 L260.006,56 L260,52 L264,52 L264,44 L268,44 L268,52 L264.006,52 L264,56 L260.006,56 L260,60 L264,60 L264,64 L268,64 L268,68 L264,68 L264.006,64 L260,64 L260.006,60 L252,60 L252,56 L248,56 L248,52 L240,52 L240.006,48 L236.006,48 L236.006,44 L240,44 L240.006,48 L244,48 L244,44 L240.006,44 L240,40 L236,40 L236.026,36 L232,36 L232,40 L224,40 L224,36 L220.006,36 L220.006,40 L216,40 L216.006,36 L212.006,36 L212.006,40 L216,40 L216,44 L220,44 L220,48 L224,48 L224,44 L228.006,44 L228.012,48 C232.732,47.956 232.032,47.306 232.006,52 L236.006,52 L236.006,56 L232.006,56 L232.018,60.164 L260.026,92 L272,92 L272,56 L268,56 L268.006,52 L272,52 L272,40 Z M252,68 L256,68 L256,72 L252,72 L252,68 Z M244,64 L244,60 L240,60 L240,56 L244,56 L244,60 L248,60 L248,64 L244,64 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="272 32 268.006 32 268.006 36 272 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="260.006 28 256.006 28 256.006 32 260.006 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="272 24 268.006 24 268.006 28 272 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="264.006 24 260.006 24 260.006 28 264.006 28 264.006 32 260.006 32 260.006 36 264.006 36 264.006 32 268.006 32 268.006 28 264.012 28"></polygon>
+                <path d="M200,48 L200.006,52 L204,52 C204,49.344 204,42.566 204,40 L208.006,40 L208.006,36 L204.006,36 L204.006,40 L200.012,40.006 L200,44 L196,44 L196,48 L200,48 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="200.012 36 196 36 196 40.006 200.012 40.006"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="204.006 8 204.006 12 208.006 12 208.006 16 212.006 16 212.006 12 208.006 12 208.006 8"></polygon>
+                <path d="M204.006,3.994 L204.006,0 L200.006,0 C200.002,1.992 199.998,6.008 200,8 L204.006,8 L204.006,3.994 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="196.006 7.99402 192 7.99402 192 12 196.006 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="192.006 0 188.006 0 188.006 4 191.982 4"></polygon>
+                <path d="M912,76 L912,60 L908,60 L908,56 L912,56 L912,48 L904,48 L904,44 L900,44 L900,36 L896,36 L896,48 L900,48 L900,52 L904,52 L904,56 L900,56 L900,52 L896,52 L896,92 L940,92 L940,76 L912,76 Z M900,80 L904,80 L904,84 L900,84 L900,80 Z M904,64 L900,64 L900,60 L904,60 L904,64 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="904 40 904 44 912 44 912 36 908 36 908 40"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="912 0 908 0 908 4 912 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="900 0 896 0 896 4 900 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="908 4 904 4 904 8 908 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="904 12 900 12 900 16 904 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="908 16 904 16 904 20 908 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="912 20 908 20 908 24 912 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="900 20 896 20 896 24 900 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="908 36 908 28 904 28 904 24 900 24 900 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="912 8 908 8 908 12 912 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="900 8 896 8 896 12 900 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1192 28 1188 28 1188 36 1192 36"></polygon>
+                <path d="M1184,56 L1188,56 L1188,52 L1192,52 L1192,56 L1188,56 L1188,60 L1192,60 L1192,64 L1188,64 L1188,60 L1184,60 L1184,92 L1200,92 L1200,56 L1196,56 L1196,52 L1200,52 L1200,48 L1196,48 L1196,44 L1200,44 L1200,40 L1196,40 L1196,36 L1192,36 L1192,40 L1188,40 L1188,44 L1192,44 L1192,48 L1188,48 L1188,44 L1184,44 L1184,56 Z M1192,72 L1188,72 L1188,68 L1192,68 L1192,72 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1188 36 1184 36 1184 40 1188 40"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1200 28 1196 28 1196 36 1200 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1188 24 1184 24 1184 28 1188 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1192 20 1188 20 1188 24 1192 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1188 16 1184 16 1184 20 1188 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1196 16 1192 16 1192 20 1196 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1200 20 1196 20 1196 24 1200 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1200 8 1196 8 1196 12 1200 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1200 0 1196 0 1196 4 1200 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1188 0 1184 0 1184 8 1188 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1192 8 1188 8 1188 12 1192 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="980 27.994 980 23.994 976 23.994 976 27.994"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="976.023 40.116 972.018 40.116 972.018 44.122 976.023 44.122"></polygon>
+                <path d="M1048.01,52.004 L1048.01,48.008 L1044.01,48.008 L1044.01,52.004 L1040.02,52.004 L1040.02,48.008 L1036.01,48.008 C1036.01,50 1036.01,54.01 1036.01,56 L1040,56 L1040,60 L1036,60 L1036,56 L1032.66,56 C1024.88,83.818 983.364,83.81 975.592,56 L972,56 L968,56 L964,56 L968,56 L968,52 L972,52 L972,56 C972.802,56 975.252,56 976.012,56 L976.012,48.008 C974.02,48.008 970.008,48.008 968.018,48.008 L968,40 L972,40 L972.006,36 L968,36 L968,32 L964,32 L964,36 L960.006,36 L960,40 L956,40 L956,44 L964,44 L964,48 L956,48 L956,52 L960,52 L960,56 L957.468,56 L960,56 L956.448,56 C964.19,100.496 1022.96,108.124 1044.7,72 L1040,72 L1040,68 L1047.12,68 C1049.12,64.26 1050.65,60.242 1051.58,56 C1051.58,56 1052.02,53.884 1052.00066,52.004 C1051.95,52.004 1048.06,52.004 1048.01,52.004 Z M964.012,36 L968,36 L968,39.996 L964,40 L964.012,36 Z M972,64 L968,64 L968,60 L972,60 L972,64 Z M984,76 L980,76 L980,72 L984,72 L984,76 Z M1032,76 L1028,76 L1028,72 L1032,72 L1032,76 Z M1036,68 L1032,68 L1032,64 L1036,64 L1036,68 Z M1048,60 L1044,60 L1044,56 L1048,56 L1048,60 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="960 32 956 32 956 36 960 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="976.023 28.08 972.018 28.08 972.018 36.092 976.023 36.092"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="972 24 968 24 968 28 972 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="976 20 972 20 972 24 976 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="976 8 972 8 972 16 976 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="984 12 980 12 980 20 984 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="992 16 988 16 988 20 992 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="996.018 8.03003 988.006 8.03003 988.006 12.036 996.018 12.036"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1004.03 12.036 1000.02 12.036 1000.02 16.042 1004.03 16.042"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1000.02 0 996.018 0 996.018 4.006 1000.02 4.006"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1008.02 4.00598 1000.02 4.00598 1000.02 8.01198 1008.02 8.01198"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1016.01 8.03003 1008.02 8.03003 1008.02 12.036 1016.01 12.036"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1020.02 0 1016.01 0 1016.01 4.006 1020.02 4.006"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1028 12 1032 12 1032 7.99998 1028.01 7.99998 1028.01 4.00598 1024.01 4.00598 1024.01 8.01198 1028 8.01198"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1040 16 1040 12 1032.02 12.036 1032 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1032 20 1028 20 1028 24 1032 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1036 24 1032 24 1032 32 1036 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1044 20 1040 20 1040 24 1044 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1048 24 1044 24 1044 28 1048 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1044 28 1040 28 1040 32 1044 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1052 32 1044 32 1044 36 1052 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1040 32 1036 32 1036 36 1039.99 36 1040 40 1036 40 1036 44 1040 44 1040 48 1044 48 1044 44 1048 44 1048 48 1052 48 1052 40 1044 40 1043.99 36 1040 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1036 36 1032 36 1032 40 1036 40"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1028 16 1024 16 1024 20 1028 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1024 8 1020 8 1020 16 1024 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="988.024 0 984.018 0 984.018 4.006 988.024 4.006"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="968 16 964 16 964 20 968 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="964 28 960 28 960 32 964 32"></polygon>
+                <path d="M379.164,55.89 C379.914,52.422 380.066,48.016 380,44 L372,44 L372,40 L380,40 L380,36 L368,36 L368,40 L368.004,40 L368.016,51.884 L364.028,51.884 L364,40 L360,40 L360,48 C360,48 360,48 359.922,48 C359.83,49.148 359.672,50.66 359.478,51.884 L359.46,51.884 C358.726,56.14 357.196,60.252 354.95,63.92 L354.946,63.92 C353.102,66.552 350.936,69 348.004,70.41 L348.004,70.436 C346.806,70.992 345.48,71.672 344.016,71.932 L344.016,71.986 C342.784,72.348 341.478,72.656 340.01,72.892 C340.01,74.602 340.01,78.232 340.01,79.962 L336.022,79.962 C336.022,78.394 336.022,74.938 336.022,73.4 C334.772,73.526 333.412,73.618 332.016,73.69 L332.016,73.672 C328.214,74.132 323.716,74.202 320.002,74.206 L320.002,72 L316.002,72 L316.002,68 L320.002,68 C320.002,62.452 320.002,49.362 320.002,44 L312.002,44 L312.002,40 L304.002,40 L304.002,44 L308.002,44 L308.002,48 L312.002,48 L312.002,52 L316.002,52 L316.002,56 L312.002,56 L312.002,52 L308.002,52 L308.002,48 L304.002,48 C304.002,49.992 304.002,54.008 304.002,56 L308.002,56 L308.002,60 L304.002,60 L304.002,68 L308.002,68 L308.002,71.934 C307.994,71.934 304.008,72 304.002,72 L304.002,92 C312.002,92 334.448,92.506 340.012,91.404 L340.012,91.42 C342.758,90.988 345.39,90.464 348.024,89.662 L348.024,89.644 C349.384,89.264 350.724,88.846 352.03,88.338 L352.03,88.332 C352.314,88.224 352.564,88.1 352.848,87.976 L352.846,87.976 C355.37,87 357.756,85.76 360.024,84.26 L360.024,84.28 C361.346,83.298 362.754,82.396 364.012,81.25 L364.012,81.256 C364.504,80.838 364.994,80.402 365.468,79.964 L365.464,79.964 C366.352,79.148 367.204,78.296 368.02,77.408 L368.02,77.414 C368.452,76.946 368.864,76.462 369.26,75.958 L369.27,75.958 C371.342,73.474 373.194,70.764 374.762,67.928 L374.744,67.928 C376.322,64.394 377.198,62.882 378.152,59.916 C376.812,60.01 373.384,60.01 372.002,60.002 L372.002,56.002 C373.77,56.02 377.414,55.986 379.164,55.89 Z M316,60 L316,64 L312,64 L312,60 L316,60 Z M352.01,83.97 L348.022,83.97 L348.022,79.964 L352.01,79.964 L352.01,83.97 Z M367.998,72 L364,72 L364,68 L368,68 L367.998,72 Z M368,64 L364,64 L364,56 L368,56 L368,64 Z M376,48 L376,52 L372,52 L372,48 L376,48 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="320 0 316 0 316 4 320 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="316 4 312 4 312 8 316 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="320 8 316 8 316 12 320 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="324 12 320 12 320 16 324 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="328 16 324 16 324 20 328 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="336 8 332 8 332 12 336 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="336 0 332 0 332 4 336 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="340 12 336 12 336 16 340 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="344 4 340 4 340 8 344 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="348 8 344 8 344 12 348 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="352 4 348 4 348 8 352 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="360 8 352 8 352 12 360 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="344 16 340 16 340 20 344 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="352 16 348 16 348 20 352 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="364 16 360 16 360 20 364 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="360 20 356 20 356 24 360 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="356 24 352 24 352 28 356 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="360 28 356 28 356 32 360 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="368 28 364 28 364 32 368 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="368 32 360 32 360 36 368 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="368 20 364 20 364 24 368 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="372 24 368 24 368 28 372 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="376 28 372 28 372 32 376 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="368 12 364 12 364 16 368 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="328 4 324 4 324 12 328 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="308 0 304 0 304 4 308 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="308 12 304 12 304 16 308 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="316 16 308 16 308 20 316 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="308 20 304 20 304 24 308 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="320 20 316 20 316 24 320 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="316 24 312 24 312 28 316 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="320 28 316 28 316 32 320 32"></polygon>
+                <path d="M312,36 L312,32 L308,32 L308,28 L304,28 L304,36 C305.992,36 310.008,36 312,36 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="320 36 312 36 312 40 320 40"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1760 16 1756 16 1756 24 1760 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1756 24 1752 24 1752 28 1756 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1764 32 1764 28 1756 28 1756 32 1760 32 1760 40 1764 40"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1840 48 1836 48 1836 52 1840 52"></polygon>
+                <path d="M1836,44 L1840,44 L1840,48 L1844,48 L1844,36 L1840,36 L1840,40 L1836,40 L1836,36 L1840,36 L1840,32 C1838.01,32 1833.99,32 1832,32 L1832,40 L1828,40 L1828,44 L1832,44 L1832,48 L1836,48 L1836,44 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1828 32 1824 32 1824 40 1828 40"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1820 24 1816 24 1816 28 1820 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1824 28 1820 28 1820 32 1824 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1832 24 1828 24 1828 32 1832 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1840 24 1836 24 1836 28 1840 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1792 8 1788 8 1788 12 1792 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1792 0 1788 0 1788 4 1792 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1796 4 1792 4 1792 8 1796 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1796 12 1792 12 1792 16 1796 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1804 8 1800 8 1800 16 1804 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1812 16 1808 16 1808 20 1812 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1816 4 1812 4 1812 12 1816 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1808 0 1804 0 1804 4 1808 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1824 8 1820 8 1820 12 1824 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1828 12 1824 12 1824 16 1828 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1832 16 1828 16 1828 20 1832 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1820 16 1816 16 1816 20 1820 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1824 20 1820 20 1820 24 1824 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1780 12 1776 12 1776 20 1780 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1772 12 1768 12 1768 20 1772 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1768 20 1764 20 1764 24 1768 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1772 24 1768 24 1768 28 1772 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1772 4 1768 4 1768 8 1772 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1784 4 1776 4 1776 8 1784 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1768 40 1764 40 1764 44 1768 44"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1872 0 1868 0 1868 4 1872 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1876 4 1872 4 1872 8 1876 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1872 8 1868 8 1868 12 1872 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1876 16 1872 16 1872 20 1876 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1880 8 1876 8 1876 12 1880 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1884 0 1880 0 1880 4 1884 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1888 8 1884 8 1884 12 1888 12"></polygon>
+                <path d="M1892,16 L1896,16 L1896,12 C1894.01,12 1889.99,12 1888,12 L1888,16 L1892,16 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1884 16 1880 16 1880 20 1884 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1888 20 1884 20 1884 24 1888 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1884 24 1876 24 1876 28 1884 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1872 24 1868 24 1868 28 1872 28"></polygon>
+                <path d="M1876,28 L1872,28 C1872,29.992 1872,34.008 1872,36 C1874.66,36 1885.15,36 1888,36 L1888,32 L1876,32 L1876,28 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <path d="M1888,28 L1888,32 C1889.99,32 1894.01,32 1896,32 L1896,28 L1892,28 L1892,24 L1888,24 L1888,28 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1900 20 1892 20 1892 24 1900 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1904 24 1900 24 1900 28 1904 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1916 36 1912 36 1912 40 1916 40"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1940 0 1936 0 1936 4 1940 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1952 0 1948 0 1948 4 1952 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1948 4 1944 4 1944 8 1948 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1940 12 1936 12 1936 16 1940 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1940 20 1936 20 1936 24 1940 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1952 28 1948 28 1948 32 1952 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1948 24 1940 24 1940 28 1948 28"></polygon>
+                <path d="M1936,32 L1936,36 L1944,36 L1944,40 L1948,40 C1948,38.008 1948,33.992 1948,32 C1945.46,32 1938.62,32 1936,32 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1948 12 1944 12 1944 16 1948 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1952 16 1948 16 1948 24 1952 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1904 44 1900 44 1900 48 1904 48"></polygon>
+                <path d="M1892,36 L1892,40 L1900,40 C1900,38.008 1900,33.992 1900,32 L1896,32 L1896,36 L1892,36 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1872 36 1868 36 1868 40 1872 40"></polygon>
+                <path d="M1880,44 L1880,40 L1876,40 L1876,44 L1868,44 L1868,48 L1876,48 L1876,52 L1868,52 C1868,60.11 1868,83.554 1868,92 L1884,92 C1884,86.068 1884,61.418 1884,56 L1880,56 L1880,52 L1884,52 L1884,48 L1880,48 L1880,44 Z M1880,64 L1876,64 L1876,60 L1872,60 L1872,56 L1876,56 L1876,60 L1880,60 L1880,64 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                <path d="M1944,52 L1944,48 L1940,48 L1940,44 L1944,44 L1944,40 C1942.01,40 1937.99,40 1936,40 C1936,42.578 1936,57.106 1936,60 L1932,60 L1932,56 L1928,56 L1928,48 L1924,48 L1924,44 L1920,44 L1920,40 L1916,40 C1916,42.538 1916,49.376 1916,52 L1912,52 L1912,40 L1908,40 L1908,28 L1904,28 L1904,44 L1908,44 L1908,48 L1904,48 L1904,52 L1908,52 L1908,56 L1912,56 C1912,56.176 1912,60.018 1912,60.182 L1939.99,92 C1939.99,92 1952,92 1952,92 C1952,78.35 1952,61.588 1952,48 L1948,48 L1948,52 L1944,52 Z M1936,68 L1936,72 L1932,72 L1932,68 L1936,68 Z M1928,60 L1928,64 L1924,64 L1924,60 L1920,60 L1920,56 L1924,56 L1924,60 L1928,60 Z M1948,68 L1944,68 L1944,64 L1940,64 L1940,60 L1944,60 L1944,64 L1948,64 L1948,68 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1948 44 1944 44 1944 48 1948 48"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1952 40 1948 40 1948 44 1952 44"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="636 4 632 4 632 8 636 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="648 12 652 12 652 8 656 8 656 4 652 4 652 0 648 0 648 4 644 4 644 8 648 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="628 12 624 12 624 16 628 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="624 16 620 16 620 20 624 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="636 16 628 16 628 20 636 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="632 24 628 24 628 28 632 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="692 28 688 28 688 32 692 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="704 28 696 28 696 32 704 32"></polygon>
+                <path d="M708,52 L708,32 L704,32 L704,36 C702.008,36 697.992,36 696,36 L696,40 L692,40 L692,44 L696,44 L696,48 L700,48 L700,52 L696,52 L696,48 L692,48 C692,49.992 692,54.008 692,56 L696,56 L696,60 L692,60 L692,56 L688.656,56 C680.882,83.818 639.364,83.81 631.592,56 L628,56 L628,52 L624,52 L624,56 L620,56 L620,52 L624,52 L624,40 L620,40 L620,32 C618.008,32 613.992,32 612,32 L612,36 L616,36 L616,44 L620,44 L620,48 L616,48 L616,44 L612,44 C612,45.992 612,50.008 612,52 L616,52 L616,56 L612.448,56 C621.372,102.708 683.142,108.424 703.118,68 L700,68 L700,64 L705.034,64 C706.108,61.436 706.972,58.764 707.582,56 L704,56 L704,60 L700,60 L700,56 L704,56 L704,52 L708,52 Z M628,72 L624,72 L624,68 L628,68 L628,72 Z M644,80 L640,80 L640,76 L644,76 L644,80 Z M692,76 L688,76 L688,72 L692,72 L692,76 Z M692,68 L688,68 L688,64 L692,64 L692,68 Z M700,44 L700,40 L704,40 L704,44 L700,44 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="620 24 616 24 616 28 620 28"></polygon>
+                <path d="M624,40 L628,40 L628,52 L632,52 L632,36 L628,36 C628,34.008 628,29.992 628,28 C626.008,28 621.992,28 620,28 L620,32 L624,32 L624,40 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="644 8 636 8 636 12 644 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="648 16 640 16 640 20 648 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="664 12 656 12 656 16 664 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="640 20 636 20 636 24 640 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="660 0 656 0 656 4 660 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="664 4 660 4 660 8 664 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="672 0 668 0 668 4 672 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="672 12 668 12 668 16 672 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="676 16 672 16 672 20 676 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="684 16 680 16 680 20 684 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="688 20 684 20 684 24 688 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="696 20 692 20 692 24 696 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="700 16 696 16 696 20 700 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="692 12 688 12 688 16 692 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="688 8 684 8 684 12 688 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="680 4 676 4 676 12 680 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="108 0 104 0 104 4 108 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="112 4 108 4 108 8 112 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="104 8 100 8 100 12 104 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="108 12 104 12 104 16 108 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="96 4 92 4 92 8 96 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="88 8 84 8 84 12 88 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="96 12 88 12 88 16 96 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="100 16 96 16 96 20 100 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="96 20 92 20 92 24 96 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="88 20 84 20 84 24 88 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="84 16 80 16 80 20 84 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="76 20 72 20 72 24 76 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="80 24 76 24 76 28 80 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="88 28 80 28 80 32 88 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="76 28 72 28 72 32 76 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="80 32 76 32 76 40 80 40"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="84 40 80 40 80 52 84 52"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="116 8 112 8 112 12 116 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="120 4 116 4 116 8 120 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="128 8 124 8 124 16 128 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="120 12 116 12 116 16 120 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="128 0 124 0 124 4 128 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="140 4 136 4 136 8 140 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="136 8 132 8 132 12 136 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="140 12 136 12 136 16 140 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="148 12 144 12 144 16 148 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="144 16 140 16 140 20 144 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="132 16 128 16 128 20 132 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="140 20 136 20 136 24 140 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="148 20 144 20 144 24 148 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="156 20 152 20 152 24 156 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="152 24 148 24 148 32 152 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="144 28 140 28 140 32 144 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="148 32 144 32 144 36 148 36"></polygon>
+                <path d="M148,40 L144,40 L144,44 L148,44 L148,48 L152,48 L152,52 L148,52 L148,48 L144,48 C144,49.992 144,54.008 144,56 L148,56 L148,60 L144,60 L144,56 L140.656,56 C132.882,83.818 91.364,83.81 83.592,56 L80,56 L80,52 L76,52 L76,56 L72,56 L72,52 L76,52 L76,40 L72,40 L72,32 L68,32 L68,44 L72,44 L72,48 L68,48 L68,44 L64,44 C64,45.992 64,50.008 64,52 L68,52 L68,56 L64.448,56 C73.372,102.708 135.142,108.424 155.118,68 L152,68 L152,64 L157.034,64 C158.108,61.436 158.972,58.764 159.582,56 L156,56 L156,60 L152,60 L152,56 L156,56 L156,52 L160,52 C160,50.008 160,45.992 160,44 L152,44 L152,40 L160,40 L160,36 L148,36 L148,40 Z M80,72 L76,72 L76,68 L80,68 L80,72 Z M92,80 L88,80 L88,76 L92,76 L92,80 Z M144,76 L140,76 L140,72 L144,72 L144,76 Z M144,68 L140,68 L140,64 L144,64 L144,68 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="160 28 156 28 156 32 160 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1284 8 1280 8 1280 12 1284 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1272 0 1268 0 1268 4 1272 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1264 0 1260 0 1260 4 1264 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1256 0 1252 0 1252 4 1256 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1248 0 1244 0 1244 4 1248 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1244 4 1240 4 1240 8 1244 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1268 4 1264 4 1264 8 1268 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1276 4 1272 4 1272 8 1276 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1276 12 1272 12 1272 16 1276 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1280 16 1276 16 1276 20 1280 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1268 12 1260 12 1260 16 1268 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1260 8 1256 8 1256 12 1260 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1252 12 1248 12 1248 16 1252 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1248 16 1244 16 1244 20 1248 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1244 12 1240 12 1240 16 1244 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1236 12 1232 12 1232 16 1236 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1240 20 1232 20 1232 24 1240 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1248 24 1240 24 1240 28 1248 28"></polygon>
+                <path d="M1272,44 L1272,40 L1264,40 L1264,44 L1260,44 L1260,40 L1264,40 L1264,36 C1262.01,36 1257.99,36 1256,36 L1256,40 C1254.01,40 1249.99,40 1248,40 C1248,41.992 1248,46.008 1248,48 L1252,48 L1252,44 L1256,44 L1256,52 L1260,52 L1260,48 L1268,48 L1268,44 L1272,44 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1244 36 1240 36 1240 40 1244 40"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1236 28 1232 28 1232 32 1236 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1240 32 1236 32 1236 36 1240 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1248 32 1244 32 1244 36 1248 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1252 28 1248 28 1248 32 1252 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1256 32 1252 32 1252 36 1256 36"></polygon>
+                <path d="M1237.93,88.14 C1238.61,88.554 1239.3,88.948 1240,89.308 L1240,89.318 C1242.53,90.576 1245.2,91.69 1248.01,92.164 L1248.01,92.218 C1249.29,92.506 1250.63,92.706 1252,92.85 L1252,92.852 C1254.55,93.116 1257.35,93.26 1259.99,93.034 L1260.01,93.016 C1261.39,92.908 1262.71,92.726 1264.02,92.49 L1264.02,92.488 C1264.54,92.38 1265.06,92.272 1265.58,92.146 L1265.57,92.146 C1268.97,91.338 1272.28,90.046 1275.18,88.14 L1275.18,88.122 C1278.43,86.052 1281.16,83.328 1283.25,80.11 L1283.23,80.11 C1283.48,79.73 1283.76,79.348 1283.99,78.95 L1284.01,78.95 C1288.14,72.284 1288.19,63.648 1288,56 L1284.01,56 C1284.01,54.014 1284.01,50.01 1284.01,48.024 L1284,48.024 L1284,48 L1280.01,48 L1280.01,44 C1280,44 1276,44 1276,44 L1276,52 L1272,52 L1272,56 L1268,56 L1268,60 L1268.01,60 L1268.01,60.042 L1272,60.042 C1272,60.13 1272,63.984 1272,64.066 L1269.96,64.066 C1269.96,65.462 1269.73,66.804 1269.31,68.072 L1269.33,68.072 C1269,69.088 1268.55,70.012 1268.01,70.9 L1268.01,70.904 C1267.75,71.302 1267.52,71.716 1267.23,72.078 L1267.23,72.078 C1265.85,73.978 1263.86,75.262 1261.66,76.084 L1261.66,76.102 C1258.65,77.166 1255.15,77.242 1252.02,76.594 L1252.02,76.592 C1247.33,75.616 1243.01,73.106 1240,69.34 L1240,69.322 C1238.92,67.962 1237.99,66.574 1237.15,64.972 L1225.81,75.94 C1226.82,77.436 1227.82,78.8 1228.98,80.128 L1228.99,80.128 C1231.61,83.236 1234.5,85.998 1237.91,88.122 L1237.93,88.14 Z M1236,76 L1232,76 L1232,72 L1236,72 L1236,76 Z M1276,52 L1280,52 L1280,56 L1276,56 L1276,52 Z M1276,76 L1272,76 L1272,72 L1276,72 L1276,76 Z M1284,68 L1280,68 L1280,64 L1276,64 L1276,60 L1280,60 L1280,64 L1284,64 L1284,68 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1268 52 1264 52 1264 56 1268 56"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1272 48 1268 48 1268 52 1272 52"></polygon>
+                <path d="M466.882,56 L464,56 C464,52.438 464,47.562 464,44 L460,44 L460,48 L456,48 L456,52 L452,52 L452,48 L448,48 C448,49.992 448,54.008 448,56 L436,56 L436,60 L432,60 L432,56 L424,56 L424,48 L428,48 L428,44 L424,44 L424,40 L420,40 L420,36 L416,36 L416,40 L412,40 L412,44 L416,44 L416,48 L420,48 L420,56 L416,56 C416,54.008 416,49.992 416,48 L412,48 L412,52 L408,52 L408,56 C407.538,56 407.132,56 406.88,56 C406.264,57.44 405.648,58.884 405.176,60 L408,60 L408,64 C403.724,64 403.516,64 403.492,64 C402.64,65.992 392.774,89.228 391.6,92 L410.234,91.996 L418.718,72 C428.356,72 445.058,72 454.792,72 L462.912,91.996 L481.692,91.996 L466.882,56 Z M404,80 L400,80 L400,76 L404,76 L404,80 Z M416,64 L412,64 L412,60 L416,60 L416,64 Z M424,68 L420,68 L420,64 L424,64 L424,68 Z M444,64 L440,64 L440,60 L444,60 L444,64 Z M452,64 L448,64 L448,60 L452,60 L452,64 Z M456,56 L460,56 L460,60 L456,60 L456,56 Z M456,64 L460,64 L460,68 L456,68 L456,64 Z M464,76 L460,76 L460,72 L464,72 L464,76 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="440 4 436 4 436 12 440 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="448 8 444 8 444 12 448 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="444 0 440 0 440 4 444 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="432 4 428 4 428 8 432 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="444 12 440 12 440 16 444 16"></polygon>
+                <path d="M428,32 L432,32 L432,24 L436,24 L436,20 L432,20 C432,18.008 432,13.992 432,12 C430.008,12 425.992,12 424,12 L424,16 L428,16 L428,20 L424,20 L424,24 L428,24 L428,32 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="424 24 420 24 420 32 424 32"></polygon>
+                <path d="M432,40 L432,36 L428,36 L428,32 L424,32 L424,40 C425.992,40 430.008,40 432,40 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="440 32 436 32 436 36 440 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="448 36 440 36 440 40 448 40"></polygon>
+                <path d="M448,32 L448,36 L452,36 C452,34.008 452,29.992 452,28 C449.462,28 442.624,28 440,28 L440,32 L448,32 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="440 24 436 24 436 28 440 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="444 20 440 20 440 24 444 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="448 16 444 16 444 20 448 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="452 20 448 20 448 24 452 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="460 36 456 36 456 40 460 40"></polygon>
+                <path d="M452,44 L452,48 L456,48 C456,46.008 456,41.992 456,40 L448,40 L448,44 L452,44 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="448 44 444 44 444 48 448 48"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1460 0 1456 0 1456 4 1460 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1472 0 1468 0 1468 4 1472 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1516 0 1512 0 1512 4 1516 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1528 0 1524 0 1524 4 1528 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1524 4 1520 4 1520 8 1524 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1528 8 1524 8 1524 12 1528 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1516 8 1512 8 1512 12 1516 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1520 12 1516 12 1516 16 1520 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1524 16 1520 16 1520 20 1524 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1528 20 1524 20 1524 24 1528 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1528 28 1524 28 1524 32 1528 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1516 20 1512 20 1512 24 1516 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1524 24 1516 24 1516 28 1524 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1520 32 1512 32 1512 36 1520 36"></polygon>
+                <path d="M1520,40 L1512,40 L1512,44 L1516,44 L1516,48 L1512,48 C1512.03,51.746 1512.08,56.642 1511.26,60 L1516,60 L1516,64 L1510.14,64 C1503.67,83.936 1471.27,78.582 1472.15,56 L1468,56 L1468,60 L1464,60 L1464,56 L1468,56 L1468,52 L1472,52 C1472,49.462 1472,42.624 1472,40 L1468,40 L1468,44 L1464,44 L1464,40 L1460,40 C1460,41.992 1460,46.008 1460,48 L1456,48 C1455.93,54.644 1456,61.632 1457.74,68 L1464,68 L1464,72 L1459.03,72 C1476,108 1527.94,96 1527.94,56 L1524,56 L1524,52 L1528,52 L1528,48 L1520,48 L1520,44 L1524,44 L1524,40 L1528,40 L1528,36 L1520,36 L1520,40 Z M1476,80 L1472,80 L1472,76 L1476,76 L1476,80 Z M1512,76 L1508,76 L1508,72 L1512,72 L1512,76 Z M1516,56 L1516,52 L1520,52 L1520,56 L1516,56 Z M1524,64 L1524,68 L1520,68 L1520,64 L1524,64 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1468 4 1464 4 1464 8 1468 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1460 8 1456 8 1456 12 1460 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1464 12 1460 12 1460 16 1464 16"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1472 8 1468 8 1468 12 1472 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1468 16 1464 16 1464 24 1468 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1472 24 1468 24 1468 36 1472 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1460 20 1456 20 1456 24 1460 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1464 24 1460 24 1460 28 1464 28"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1460 28 1456 28 1456 32 1460 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1464 32 1460 32 1460 36 1464 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1468 36 1464 36 1464 40 1468 40"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1460 36 1456 36 1456 40 1460 40"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1096 32 1092 32 1092 36 1096 36"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1092 24 1088 24 1088 32 1092 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1084 20 1080 20 1080 32 1084 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1096 20 1092 20 1092 24 1096 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1092 12 1088 12 1088 20 1092 20"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1096 8 1092 8 1092 12 1096 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1096 0 1092 0 1092 4 1096 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1140 0 1136 0 1136 4 1140 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1152 0 1148 0 1148 4 1152 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1148 4 1144 4 1144 8 1148 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1152 8 1148 8 1148 12 1152 12"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1136 16 1140 16 1140 12 1144 12 1144 8 1136 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1152 24 1148 24 1148 32 1152 32"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1148 16 1144 16 1144 24 1148 24"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1140 20 1136 20 1136 24 1140 24"></polygon>
+                <path d="M1144,28 C1142.01,28 1137.99,28 1136,28 L1136,32 L1140,32 L1140,40 L1144,40 L1144,44 L1140,44 L1140,40 L1136,40 C1136,42.656 1136,49.434 1136,52 L1140,52 L1140,56 L1144,56 L1144,60 L1140,60 L1140,56 L1135.85,56 C1136.73,78.584 1104.32,83.936 1097.86,64 L1092,64 L1092,60 L1096.74,60 C1095.92,56.648 1095.97,51.74 1096,48 L1092,48 L1092,44 L1096,44 L1096,40 L1088,40 C1088,38.008 1088,33.992 1088,32 L1084,32 L1084,36 L1080,36 L1080,40 L1084,40 L1084,44 L1088,44 L1088,48 L1080,48 L1080,52 L1084,52 L1084,56 L1080.06,56 C1080,96 1132,106 1148.97,72 L1144,72 L1144,68 L1150.26,68 C1152.36,60.354 1151.98,51.926 1152,44 L1148,44 L1148,40 L1152,40 L1152,36 L1144,36 L1144,28 Z M1088,68 L1084,68 L1084,64 L1088,64 L1088,68 Z M1088,56 L1088,52 L1092,52 L1092,56 L1088,56 Z M1100,76 L1096,76 L1096,72 L1100,72 L1100,76 Z M1136,80 L1132,80 L1132,76 L1136,76 L1136,80 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1088 4 1084 4 1084 8 1088 8"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1084 0 1080 0 1080 4 1084 4"></polygon>
+                <polygon id="Path" fill="#000000" fill-rule="nonzero" points="1084 12 1080 12 1080 16 1084 16"></polygon>
+                <path d="M1400,60 L1400,56 L1404,56 L1404,56.158 L1404.01,56 L1404,60 L1412,60 L1412,52 L1404,52 L1404,44 C1402.01,44 1397.99,44 1396,44 L1396,48 L1400,48 L1400,52 L1396,52 L1396,56 L1388,56 L1388,48 L1384,48 L1384,44 L1380,44 L1380.01,40 L1384,40 L1384,36 L1380,36 L1380,40 L1376,40 L1376.01,48 L1380,48 L1380,52 L1384,52 L1384,56 L1380,56 L1380,52 L1376,52 L1376,56 L1372,56 L1372,60 L1376,60 L1376,64 L1374.98,64 L1386.5,92 L1396.96,92 L1408,65.91 L1408.78,64 L1404,64 L1404,60 L1400,60 Z M1380,60 L1384,60 L1384,64 L1380,64 L1380,60 Z M1388,72 L1384,72 L1384,68 L1388,68 L1388,72 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                <path d="M1836,56 L1836,52 L1832,52 L1832,48 L1828,48 L1828,56 L1832,56 L1832,60 L1828,60 L1828,56 L1824.66,56 C1823.72,58.88 1822.37,61.562 1820.72,64 L1824,64 L1824,68 L1817.52,68 C1803.2,85.104 1772.14,76.494 1768.18,56 L1764,56 L1760,56 L1760,52 L1764,52 L1764,48 L1760,48 L1760,40 L1756,40 L1756,36 L1752,36 L1752,32 L1748,32 L1748,40 L1752,40 L1752,44 L1756,44 L1756,48 L1752,48 L1752,44 L1748,44 C1748,45.992 1748,50.008 1748,52 L1752,52 L1752,56 L1748.45,56 C1758.81,107.934 1833.23,107.91 1843.58,56 L1836,56 Z M1760,64 L1760,60 L1764,60 L1764,64 L1760,64 Z M1768,76 L1764,76 L1764,72 L1768,72 L1768,76 Z M1816,80 L1812,80 L1812,76 L1816,76 L1816,80 Z M1836,68 L1832,68 L1832,64 L1836,64 L1836,68 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
