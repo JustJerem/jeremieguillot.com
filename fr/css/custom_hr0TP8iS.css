@@ -1,31 +1,4 @@
 /* Slide 35 (#1) */
-.progress-bar-container {
-    position: fixed;
-    background: #000;
-    height: 100vh;
-    width: 100vw;
-    z-index: 100;
-  }
-  .progress-bar-container.loaded {
-    -webkit-transition: opacity 0.5s;
-    transition: opacity 0.5s;
-    opacity: 0;
-    pointer-events: none;
-  }
-  .progress-bar-wrap {
-    top: 50%;
-    left: 50%;
-    -webkit-transform: translateX(-50%);
-    transform: translateX(-50%);
-    height: 3px;
-    width: 200px;
-    background: #222;
-  }
-  .progress-bar-wrap,
-  .progress-bar {
-    position: absolute;
-    height: 3px;
-  }
 [data-tooltip] {
 	position:relative;
 	cursor:pointer;
